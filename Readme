@@ -1,0 +1,9 @@
+# Forward Chaining Expert System
+
+This repository contains a simple implementation of an expert system using forward chaining in Python.
+
+## Contents
+
+- `expert_system.py`: The main Python script containing the expert system implementation.
+- `LICENSE`: The license information for this project.
+- `README.md`: This file providing an overview of the project.
